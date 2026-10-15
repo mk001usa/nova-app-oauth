@@ -1,0 +1,8 @@
+{
+  "client_id": "https://mk001usa.github.io/nova-app-oauth/client-metadata.json",
+  "client_name": "NOVA_APP",
+  "redirect_uris": [
+    "http://127.0.0.1:5173/api/v1/higgsfield/oauth/callback"
+  ],
+  "token_endpoint_auth_method": "none"
+}
